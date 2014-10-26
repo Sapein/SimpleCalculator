@@ -7,7 +7,7 @@
  *
  *    Description:  A small little calculator Program I made
  *
- *        Version:  1.2
+ *        Version:  1.3
  *        Created:  10/23/2014 9:24:02 PM
  *       Revision:  none
  *       Compiler:  gcc
@@ -64,5 +64,6 @@ int main(){
 			char wait = getchar();
 		}
 		char wait = getchar();
-		return 0;
+	}
+	return 0;
 }
